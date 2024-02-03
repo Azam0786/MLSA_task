@@ -31,7 +31,7 @@ const siteProps = {
   instagram: "azam___siddique",
   linkedIn: "mohd-azam-siddique-953712222",
   medium: "",
-  twitter: "",
+  twitter: "azam___siddique",
   youTube: "",
 };
 
